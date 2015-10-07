@@ -7,4 +7,4 @@ Ranked by relative importance. Includes name and line width attributes for creat
 
 Source: http://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-rivers-lake-centerlines/
 
-Created: 01/15/2013
+Updated: 10/6/2015
